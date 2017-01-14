@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+.logo {
+	float: right;
+	margin-right: -30px;
+	margin-top: -35px;
+}
+
+@-webkit-keyframes rotation {
+	from {-webkit-transform: rotate(0deg);
+}to {
+	-webkit-transform: rotate(360deg);
+}
+
+}
+.Rotation {
+	-webkit-transform: rotate(360deg);
+	animation: rotation 8s linear infinite;
+	-moz-animation: rotation 8s linear infinite;
+	-webkit-animation: rotation 8s linear infinite;
+	-o-animation: rotation 8s linear infinite;
+}
+
+.img {
+	border-radius: 200px;
+}

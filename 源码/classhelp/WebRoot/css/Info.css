@@ -1,0 +1,253 @@
+@CHARSET "UTF-8";
+
+.file {
+	position: relative;
+	display: inline-block;
+	background: #D0EEFF;
+	border: 1px solid #99D3F5;
+	border-radius: 4px;
+	padding: 4px 12px;
+	overflow: hidden;
+	color: #1E88C7;
+	text-decoration: none;
+	text-indent: 0;
+	line-height: 20px;
+}
+
+.file input {
+	position: absolute;
+	font-size: 100px;
+	right: 0;
+	top: 0;
+	opacity: 0;
+}
+
+.file:hover {
+	background: #D0EEFF;
+	border-color: #78C3F3;
+	color: #004974;
+	text-decoration: none;
+}
+
+.filechoose {
+	
+}
+/*-------------------mypage-------------------*/
+.pagebutton {
+	position: relative;
+	display: inline-block;
+	background: none;
+	border: 1px solid #99D3F5;
+	border-radius: 4px;
+	padding: 3px 6px;
+	overflow: hidden;
+	color: #004974;
+	text-decoration: none;
+	text-indent: 0;
+	line-height: 15px;
+}
+
+.pagebutton:hover {
+	background: #AADFFD;
+	border-color: #78C3F3;
+	color: #004974;
+}
+
+.mypage {
+	color: #004974;
+	padding-top: 40px;
+}
+/*-------------------index neirong-------------------*/
+.neirong {
+	height: 650px;
+	background-color: #99cccc;
+	padding: 60px;
+}
+
+.neirongbg {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	min-height: 500px;
+	width: 960px;
+	background-image: url("../images/bg_mid.jpg");
+	background-size: 100%;
+	border-radius: 10px;
+}
+.neirongbg2 {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	min-height: 500px;
+	width: 960px;
+	background-image: url("../images/bgmail.jpg");
+	background-size: 100%;
+	border-radius: 10px;
+}
+.neirongtxt {
+	padding: 50px;
+	color: white;
+}
+
+.neirongtxt2 {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	min-height: 550px;
+	width: 960px;
+}
+
+.item {
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 60px;
+	width: 860px;
+	border: solid 1px;
+	background-color: #ffffff;
+	margin-bottom: 20px;
+	border-radius: 4px;
+	border: #CCC;
+	border: solid 1px #ccc;
+}
+
+.item2 {
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 50px;
+	width: 860px;
+	border: solid 1px;
+	background-color: #ffffff;
+	margin-bottom: 10px;
+	border-radius: 4px;
+	border: #CCC;
+	border: solid 1px #ccc;
+}
+
+.itemtxt {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: -20px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: #606060;
+	width: 800px;
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow: hidden; /*这个参数根据需要来绝对要不要*/
+	font-size: 16px;
+}
+
+.itemtxt2 {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: #606060;
+	width: 800px;
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow: hidden; /*这个参数根据需要来绝对要不要*/
+	font-size: 16px;
+}
+
+.end {
+	
+}
+
+.enddate {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	width: 220px;
+	background-color: #E8E8E8;
+	float: left;
+}
+
+.sendfile {
+	margin-left: 500px;
+	width: 250px;
+	height: 50px;
+}
+
+.sendfile2 {
+	margin-left: 500px;
+	width: 250px;
+	height: 40px;
+}
+
+.sendcheck {
+	margin-left: 500px;
+	width: 250px;
+	height: 50px;
+	margin-top: -30px;
+}
+
+.checksub {
+	margin-left: 160px;
+	margin-top: -28px;
+}
+
+.filesubmit {
+	margin-top: -23px;
+	margin-left: -80px;
+}
+
+#filesubmit {
+	margin-top: -23px;
+	margin-left: -90px;
+}
+
+.workall {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+	margin-bottom: 20px;
+	width: 860px;
+	color: #FFFFFF;
+}
+
+.getstate {
+	margin-left: 720px;
+	width: 250px;
+	margin-top: -18px;
+}
+
+.getwork {
+	margin-left: 720px;
+	width: 250px;
+	margin-top: -23px;
+}
+
+.studentname {
+	margin-left: 50px;
+}
+
+.checkstate {
+	
+}
+
+.endcheck {
+	margin-top: 10px;
+	margin-bottom: -30px;
+}
+
+.mailtitle {
+	margin-top: 10px;
+	width: 600px;
+	font-size: 20px;
+	padding: 5px;
+}
+
+.mailtxt {
+	width: 600px;
+	height: 200px;
+	font-size: 18px;
+	padding: 10px;
+	margin-top: 10px;
+}
+.mailbtn .file{
+	margin-right: 20px;
+}

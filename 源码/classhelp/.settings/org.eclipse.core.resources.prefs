@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebRoot/login.jsp=UTF-8
+encoding//WebRoot/register.jsp=UTF-8
+encoding//WebRoot/student/index_student.jsp=UTF-8
+encoding//WebRoot/student/student_docheck.jsp=UTF-8
+encoding//WebRoot/student/student_work.jsp=UTF-8
+encoding//WebRoot/teacher/index_teacher.jsp=UTF-8
+encoding//WebRoot/teacher/select_check.jsp=UTF-8
+encoding//WebRoot/teacher/select_onecheck.jsp=UTF-8
+encoding//WebRoot/teacher/select_onework.jsp=UTF-8
+encoding//WebRoot/teacher/select_work.jsp=UTF-8

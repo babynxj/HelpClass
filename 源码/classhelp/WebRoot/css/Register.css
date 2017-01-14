@@ -1,0 +1,113 @@
+@CHARSET "UTF-8";
+
+body {
+	background: #99cccc no-repeat fixed center center;
+}
+
+.clear {
+	clear: both;
+}
+
+.main-page {
+	margin: 50px auto 0 auto;
+	width: 800px;
+	height: 100px;
+}
+
+.main-page .left,.main-page .right {
+	float: left;
+}
+
+.main-page .nav-back {
+	width: 100px;
+	height: 400px;
+	background: #000;
+	opacity: .3;
+	filter: alpha(opacity = 30);
+}
+
+.main-page .nav {
+	position: relative;
+	margin-top: -400px;
+	width: 100px;
+	text-align: center;
+	font-size: 15px;
+	font-family: "微软雅黑";
+	color: #fff;
+}
+
+.main-page .nav div {
+	height: 40px;
+	line-height: 40px;
+}
+
+.main-page .nav div.on {
+	background: #0094ea;
+}
+
+.main-page .right {
+	width: 620px;
+	height: 400px;
+	margin-left: 20px;
+}
+
+.main-page .content-back {
+	width: 620px;
+	height: 400px;
+	background: blue;
+	opacity: .3;
+}
+
+.main-page .content {
+	position: relative;
+	width: 600px;
+	height: 380px;
+	margin-top: -400px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.main-page .content div {
+	width: 600px;
+	height: 380px;
+	margin-bottom: 10px;
+	background: #fff;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #563D64;
+}
+.regtitle {
+	padding-top: 10px;
+	font-size: 28px;
+	font-family: "微软雅黑";
+	color: #563D64;
+}
+
+.myhr {
+	max-width: 200px;
+	color: #563D64;
+	height: 1px;
+}
+
+.regstu {
+	padding: 10px;
+}
+.regtea {
+	padding: 10px;
+}
+.tip {
+	font-size: 13px;
+	color: #999;
+}
+label{
+	float: left;
+	width: 100px;
+	text-align: right;
+	margin-right: 10px;
+}
+.file{
+	margin-left: 30px;
+}
+
+

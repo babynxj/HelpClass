@@ -1,0 +1,75 @@
+@CHARSET "UTF-8";
+.black_overlay {
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index: 1001;
+	-moz-opacity: 0.8;
+	opacity: .80;
+	filter: alpha(opacity = 60);
+}
+
+.white_content {
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	padding: 16px;
+	background-color: #99cccc;
+	z-index: 1002;
+	overflow: auto;
+	width: 600px;
+}
+
+.windowtitle{
+	float: left;
+	width: 400px;
+}
+.windowtitletxt{
+	background-color:#E8E8E8;
+	width: 130px;
+	font-size:20px;
+	padding-right:3px;
+	padding-bottom:3px;
+	padding-top:3px;
+	padding-left:20px;
+	margin-left: -15px;
+	border-top-right-radius: 6px; 
+	border-bottom-right-radius:6px;   
+
+}
+.windowtxt{
+	margin-top:10px;
+	padding:20px;
+	height:280px;
+	background-color: #ffffff;
+	border-radius:6px;   
+}
+.windowtxt2{
+	margin-top:10px;
+	padding:30px;
+	height:250px;
+	background-color: #ffffff;
+	border-radius:6px;   
+}
+.winworktxt{
+	height: 100px;
+	width: 400px;   
+}
+.checknumber{
+	height:100px;
+	width:250px;
+	border:2px solid #99cccc;
+	font-size: 120px;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:40px;
+	padding-bottom: 40px;
+	margin-top: 20px;
+}
