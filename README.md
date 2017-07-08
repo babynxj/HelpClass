@@ -15,9 +15,9 @@
 
 预览截图
 ------
-<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (1).png" height="700" width="400" />
-<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (2).png" height="700" width="400" />
-<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (3).png" height="700" width="400" />
-<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (4).png" height="700" width="400" />
-<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (5).png" height="700" width="400" />
+<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (1).png"  />
+<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (2).png"  />
+<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (3).png"  />
+<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (4).png"  />
+<img src="https://github.com/iamguofeng/ClassHelp/raw/master/截图/ktb (5).png"  />
 
